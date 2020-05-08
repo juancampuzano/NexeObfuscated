@@ -1,5 +1,5 @@
 const { compile } = require('nexe')
-const output = `compiled/carApp.exe`;
+const output = `compiled/carApp`;
 
 compile({
   input: './index.js',
